@@ -1,5 +1,5 @@
 # miner
-Code used on CC: tweaked (minecraft mod).
+Code used on CC: tweaked (Minecraft mod).
 
 Features:
   - Dig Tunnels
